@@ -1,5 +1,5 @@
 .naoentra{
-	margin-top: 4%;
+	margin-top: 2%;
 }
 html{
 	scroll-behavior: smooth;
@@ -29,7 +29,7 @@ th, td{
 	padding: 15px;
 	border-radius: 30%;
 }
-td : hover{
+td :hover{
 	background-color: #E750D0;
 }
 tr:nth-child(even){
@@ -48,7 +48,7 @@ tr:nth-child(even){
 	font-size: 3em; 
 }
 .section-title p {
-	font-family: família da fonte: 'Castoro', serif;
+	font-family: 'Castoro', serif;
 	font-size: 1,125em;
 	text-align: center;
 
